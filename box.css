@@ -1,0 +1,14 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#mybox{
+    background-color: lightblue;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    rotate: 30deg;
+    justify-content: center;
+    align-items: center;
+    font-size: 7rem;
+}
